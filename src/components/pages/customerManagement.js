@@ -14,7 +14,7 @@ export default class customerManagement extends Component {
                     <div className="col-2" style={{ boxShadow: "2px 1px #e8e8e8", height: "100%", position: "fixed"}}>
                         <Sidebar />
                     </div>
-                    <div className="col-10" style={{marginLeft: "20rem"}}>
+                    <div className="col-10" style={{marginLeft: "15rem"}}>
                         <CustomerList />
                     </div>
                 </div>
