@@ -5,7 +5,7 @@ export default class navbar extends Component {
     render() {
         return (
             <div className="row" 
-            style={{boxShadow: "0px 1px #888888", lineHeight: "3.5rem"}}>
+            style={{boxShadow: "0px 1px #e8e8e8", lineHeight: "3.5rem"}}>
                 <div className="col-2" style={{textAlign: "center"}}>
                     Tổng quan
                 </div>

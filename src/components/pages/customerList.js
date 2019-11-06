@@ -7,10 +7,13 @@ export default class customerList extends Component {
                 <table className="table">
                 <thead>
                     <tr>
-                    <th scope="col">#</th>
-                    <th scope="col">First</th>
-                    <th scope="col">Last</th>
-                    <th scope="col">Handle</th>
+                    <th scope="col">Tên khách hàng</th>
+                    <th scope="col">Địa chỉ</th>
+                    <th scope="col">Mã số thuế</th>
+                    <th scope="col">Loại khách hàng</th>
+                    <th scope="col">Lượng sản phẩm đã mua</th>
+                    <th scope="col">Cách tiếp cận</th>
+                    <th scope="col">Lượng sản phẩm đã mua</th>
                     </tr>
                 </thead>
                 <tbody>
